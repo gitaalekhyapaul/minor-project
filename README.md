@@ -6,6 +6,16 @@ Batch Number: <b>NWC138</b>
 Authors: <b>(1) Gita Alekhya Paul - RA1911030010014 (2) Yashvardhan Jagnani - RA1911030010035</b>
 </p>
 
+### **Paper Published Details:**
+> 
+> **Conference:** 2023 2nd International Conference on Vision Towards Emerging Trends in Communication and Networking Technologies (ViTECoN)
+> 
+> **Date:** 5th-6th May, 2023
+> 
+>  **Title:** _"Implementing Dead Letter Exchanges in MQTT and Proposing a Broker Failure Algorithm Utilizing Blockchain DNS"_
+> 
+> **DOI:** [10.1109/ViTECoN58111.2023.10157491](https://doi.org/10.1109/ViTECoN58111.2023.10157491)
+>
 # **Abstract**
 
 The MQTT protocol has become increasingly popular in IoT and Edge Computing, as it offers a lightweight and efficient way of exchanging data between publishers and subscribers. While the protocol has implemented fault tolerance through QoS levels 1 and 2, its current limitations have become a significant problem for various use cases. The current specification of MQTT does not provide fault tolerance on the broker end, which can lead to network disruption in case of broker failure. Furthermore, the MQTT protocol does not mention a scalable way of storing unacknowledged messages in QoS levels more than 0. It depends on the memory storage of the broker to store them, which can easily get overwhelmed when brokers handle a vast volume of data.
