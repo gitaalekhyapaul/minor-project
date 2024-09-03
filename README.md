@@ -16,17 +16,14 @@ Additionally, the paper explores using dynamic load-balancing through Blockchain
 
 Overall, this research aims to improve the performance and reliability of the MQTT protocol while maintaining its lightweight and minimal overhead nature. By exploring the use of Blockchain technology, the paper offers new insights into how the limitations of MQTT can be addressed and a more reliable and efficient protocol can be developed.
 
+**Keywords:** Blockchain, Blockchain DNS, Fault Tolerance, MQTT, ZNS
 <br>
 
 # **Video Demo**
 
-<div align="center">
-<video alt="Video Demo" src="./readme-assets/video-demo.mp4" />
-</div>
+[![Video Demo](https://img.youtube.com/vi/ZtAjyVZq7WA/0.jpg)](https://www.youtube.com/watch?v=ZtAjyVZq7WA)
 
 <br>
-
-**Keywords:** Blockchain, Blockchain DNS, Fault Tolerance, MQTT, ZNS
 
 # **Architecture**
 
