@@ -18,6 +18,14 @@ Overall, this research aims to improve the performance and reliability of the MQ
 
 <br>
 
+# **Video Demo**
+
+<div align="center">
+<video alt="Video Demo" src="./readme-assets/video-demo.mp4" />
+</div>
+
+<br>
+
 **Keywords:** Blockchain, Blockchain DNS, Fault Tolerance, MQTT, ZNS
 
 # **Architecture**
